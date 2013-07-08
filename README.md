@@ -9,8 +9,8 @@ subarray within a one-dimensional array of numbers (containing at least one posi
 which has the largest sum. For example, for the sequence of values -2, 1, -3, 4, -1, 2, 1, -5, 4; 
 the contiguous subarray with the largest sum is 4, -1, 2, 1, with sum 6.
 
-Given an array [ -2, 1, -3, 4, -1, 2, 1, -5, 4 ], the program in this repository will return
-sum 6.
+Given an array [ -2 1 -3 <b>4 -1 2 1</b> -5 4 ], the program in this repository will return
+sum 6 which is the sum of max subarray.
 
 Description:
 ============
