@@ -9,14 +9,16 @@ subarray within a one-dimensional array of numbers (containing at least one posi
 which has the largest sum. For example, for the sequence of values -2, 1, -3, 4, -1, 2, 1, -5, 4; 
 the contiguous subarray with the largest sum is 4, -1, 2, 1, with sum 6.
 
+Given an array, the program in this repository returns sum 6.
+
 Description:
 ============
-   Finds the Sub Array having Maximum Sum and display that Sum
+Finds the Sub Array having Maximum Sum and display that Sum
    
 Input Format:
 ============= 
-   Takes input from Standard Input
-   Example Input array: [ 2 -1 -1 -3 -2 3 -4 -8 -3 -8 9 -9 6 -4 2 7 5 ] 
+Takes input from Standard Input
+Example Input array: [ 2 -1 -1 -3 -2 3 -4 -8 -3 -8 9 -9 6 -4 2 7 5 ] 
 
 Output:
 =======
